@@ -19,5 +19,4 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
-
-kkkk
+// uuu
